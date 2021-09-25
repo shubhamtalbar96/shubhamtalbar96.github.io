@@ -1,15 +1,25 @@
+img {
+    width: 400px;
+    height: 500px;
+}
+
 body {
-    background-color: powderblue;
-  }
+    background-color: ECEFFI;
+}
   
-  h1 {
-    color: blue;
-  }
+h1 {
+    color: #263238;
+}
 
-  h1 {
-    color: green;
-  }
+h2 {
+    color: #37474F
+}
 
-  p {
-    color: red;
-  }
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+  
